@@ -1,7 +1,8 @@
 console.log("you can ignore single and double quotes like this:\\\'\\\'\\\"\\\"");
 
 
-let data=prompt("Enter your dat");
+let data=prompt("Enter your date");
+alert(`you are ${data} years old`);
 
 let namee=prompt("Enter your name");
 alert(`your name is ${namee}`);
